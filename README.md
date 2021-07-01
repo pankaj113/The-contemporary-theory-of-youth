@@ -7,4 +7,4 @@ A writing project. In this project, we seek to explore some topics that could ma
 Following sections are planned for writing:
 1. Explore, Discover, Follow
 2. Context, Clarity, CGPA
-3. Faith, Knowledge and Habits
+3. Faith, Knowledge, Habit
